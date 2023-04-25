@@ -10,7 +10,7 @@ module.exports = (n) => {
     givenNumber[index] = givenNumber[index - 1] + givenNumber[index - 2];
   }
 
-  // Hide this and you wont see result in index automatically
+  // Hide this and you wont see result from index.js file automatically
   console.info(`FibonacciSequence(${n})`);
   console.table(givenNumber);
 

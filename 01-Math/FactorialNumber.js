@@ -9,7 +9,7 @@ module.exports = (n) => {
     result = result * index;
   }
 
-  // Hide this and you wont see result in index automatically
+  // Hide this and you wont see result from index.js file automatically
   console.info(`FactorialNumber(${n}): `, result);
 
   // Return the result
