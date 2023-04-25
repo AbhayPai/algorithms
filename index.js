@@ -2,7 +2,8 @@
 // Requiring custom module of FibonacciSequence
 let FibonacciSequence = require("./01-Math/FibonacciSequence");
 let FactorialNumber = require("./01-Math/FactorialNumber");
-let isPrimeNumber = require("./01-Math/isPrimeNumber");
+let PrimeNumber = require("./01-Math/PrimeNumber");
+let isPowerOfTwo = require("./01-Math/isPowerOfTwo");
 
 // Start FibonacciSequence
 FibonacciSequence(2);
@@ -14,9 +15,18 @@ FactorialNumber(0);
 FactorialNumber(5);
 // End FactorialNumber
 
-// Start isPrimeNumber
-isPrimeNumber(1);
-isPrimeNumber(5);
-// End isPrimeNumber
+// Start PrimeNumber
+PrimeNumber(1);
+PrimeNumber(2);
+PrimeNumber(3);
+PrimeNumber(5);
+// End PrimeNumber
+
+// Start isPowerOfTwo
+isPowerOfTwo(1);
+isPowerOfTwo(2);
+isPowerOfTwo(3);
+isPowerOfTwo(5);
+// End isPowerOfTwo
 
 // End Math Algorithm
