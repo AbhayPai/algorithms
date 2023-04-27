@@ -1,4 +1,4 @@
 # Recursion Algorithm
 
-1. [Fibonacci Sequence with Recursion](./01-RecursiveFibonnacci.js)
-2. [Factorial of a Number with Recursion]()
+1. [Recursive Fibonacci Sequence](./01-RecursiveFibonnacci.js)
+2. [Recursive Factorial of a Number](./02-RecursiveFactorial.js)

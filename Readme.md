@@ -7,7 +7,7 @@
 | [Prime Number](./01-Math/isPrimeNumber.js) |
 | [Power of Two](./01-Math/isPowerOfTwo.js) |
 
-| [Recursion Algorithm](./02-Recursive/Readme.md)|
+| [Recursive Algorithm](./02-Recursive/Readme.md)|
 |----------|
-| [Fibonacci Sequence with Recursion](./02-Recursive/01-RecursiveFibonacci.js) |
-| [Factorial of a Number with Recursion]() |
+| [Recursive Fibonacci Sequence](./02-Recursive/01-RecursiveFibonacci.js) |
+| [Recursive Factorial of a Number](./02-Recursive/02-RecursiveFactorial.js) |
