@@ -30,3 +30,9 @@ isPowerOfTwo(5);
 // End isPowerOfTwo
 
 // End Math Algorithm
+
+// Start Recursive Algorithm
+let RecursiveFibonacci = require("./02-Recursive/01-RecursiveFibonacci");
+
+RecursiveFibonacci(2);
+// End Recursive Algorithm
